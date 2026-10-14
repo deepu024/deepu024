@@ -22,6 +22,7 @@ I build LLM-powered products: retrieval-augmented generation (RAG), tool-using a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📌 Selected projects
+- [docsage](https://github.com/deepu024/docsage) – agentic RAG: Claude tool-use agent, BM25 retrieval, cited answers, eval harness (hit@k / MRR)
 - [mini-collection-management-system](https://github.com/deepu024/mini-collection-management-system) – Next.js + Node/Prisma + PostgreSQL, JWT auth, Socket.IO real-time, Docker
 - [casecobra](https://github.com/deepu024/casecobra) – full-stack TypeScript e-commerce app
 - [loansure](https://github.com/deepu024/loansure) – TypeScript fintech app
