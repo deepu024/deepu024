@@ -1,65 +1,33 @@
-- 👋 Hi, I’m @<b>Deepanshu Sharma</b>
-- 👀 I’m interested in software development
-- 🌱 I’m currently working at Red Basil Technologies Pvt. Ltd.
-- 💞 I’m looking to collaborate on MERN Stack Projects
-- 📫 You can reach me at ojashsharma024@gmail.com
-- ⚡ Fun fact: Qualification-wise I do not belong to any engineering background
+# Hi, I'm Deepanshu Sharma 👋
 
+**AI Engineer · Agentic AI · Applied AI**
+I build LLM-powered products: retrieval-augmented generation (RAG), tool-using agents, and the backend + frontend around them. Currently at **Red Basil Technologies Pvt. Ltd.**
 
-<h3 align="center">Feel Free to Contact me.....</h3>
-<p align="center">
-        <a href="https://github.com/deepu024"><img alt="github" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/github.png" target="_blank" /></a>
-        <a href="https://www.linkedin.com/in/deepanshu-sharma-5a29a7210/"><img alt="linkedin" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/linkedin.png" target="_blank" /></a>
-     
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center ">  
-                    <!-- <a href="https://git-scm.com/" target="_blank"> <img
-                        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                        height="40" /> </a> -->
-                        <a href="https://www.w3.org/html/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="40" height="40" /> </a> 
-                        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-                        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="40" height="40" /> </a>
-                         <!-- <a href="https://postman.com" target="_blank">
-                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                        height="40" /> </a> -->
-                         <!-- <a href="https://reactjs.org/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="40" height="40" /> </a> -->
-                        <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                alt="express" width="40" height="40" />
-                <a href="https://www.mongodb.com/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="40" height="40" /> </a> 
-                        <a href="https://nodejs.org" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="40" height="40" /> </a>
-                         <a href="https://reactjs.org/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="40" height="40" /> </a> 
-                        <a href="https://redux.js.org" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="40" height="40" /> </a> 
-                        </p>
+## 🔭 What I work on
+- **RAG systems** – document ingestion, embeddings, retrieval, grounded answers
+- **Agentic AI** – tool calling, multi-step workflows, bots (e.g. Telegram)
+- **Applied AI products** – shipping AI features end-to-end in real apps
+- **Full-stack foundation** – production web apps with TypeScript, Node.js/NestJS, Next.js, PostgreSQL, MongoDB
 
-<p align="center"><img
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu024&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
-                alt="deepu024" /></p>
+## 🛠 Tech
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-<p align="center">&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=deepu024&show_icons=true&theme=dark&hide_border=true&locale=en"
-                alt="deepu024" /></p>
+## 📌 Selected projects
+- [mini-collection-management-system](https://github.com/deepu024/mini-collection-management-system) – Next.js + Node/Prisma + PostgreSQL, JWT auth, Socket.IO real-time, Docker
+- [casecobra](https://github.com/deepu024/casecobra) – full-stack TypeScript e-commerce app
+- [loansure](https://github.com/deepu024/loansure) – TypeScript fintech app
+- [telegram-bot-backend](https://github.com/deepu024/telegram-bot-backend) – NestJS Telegram bot backend
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepu024&theme=dark&hide_border=true"
-                alt="deepu024" /></p>
+## 📫 Contact
+[Email](mailto:ojashsharma024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-5a29a7210/)
 
-- ### 📈 GitHub Activity:
-  <a href="https://github.com/deepu024/github-readme-activity-graph"><img alt="deepu024's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepu024&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
+*Open to AI Engineer / Applied AI / Agentic AI roles.*
